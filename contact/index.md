@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-We are located at the following locations.
+We are situated at the following locations.
 
 ## Temasek Laboratories @ NUS ##
 	5A Engineering Drive 1
