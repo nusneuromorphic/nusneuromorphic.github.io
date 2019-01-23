@@ -1,5 +1,5 @@
 <!--
-.. title: Welcome
+.. title: NUS Neuromorphic Group
 .. slug: index
 .. date: 2019-01-22 16:23:18 UTC+08:00
 .. tags: 
