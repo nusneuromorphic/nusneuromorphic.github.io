@@ -25,7 +25,7 @@ SITE_URL = "https://nusneuromorphic.github.io/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "nusneuromorphic@gmail.com"
-BLOG_DESCRIPTION = "This is a site for NUS Neuromorphic group"  # (translatable)
+BLOG_DESCRIPTION = ""  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -136,10 +136,10 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-    	("/index.html", "Welcome"),
+    	# ("/index.html", "Welcome"),
     	("/labmembers/index.html", "Lab Members"),
     	("/code/index.html", "Code"),
-    	("/publications/index.html", "Publications"),
+    	("/research/index.html", "Research"),
     	("/openings/index.html", "Openings"),
     	("/contact/index.html", "Contact"),
         # ("/archive.html", "Archive"),
@@ -156,7 +156,10 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+# THEME = "bootblog4"
+# THEME = "detox"
+# THEME = "bootstrap4"
+THEME = "cadair"
 
 # Primary color of your theme. This will be used to customize your theme.
 # Must be a HEX value.
@@ -924,7 +927,8 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a>     {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
