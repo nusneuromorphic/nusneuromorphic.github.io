@@ -1,234 +1,108 @@
-img {
-    max-width: 100%;
+html {
+	height: 100%;
 }
 
-.titlebox {
-    text-align: right;
+body {
+	height: 100%;
+	padding-top: 50px;
+	font-family: 'sans';
+/*	background-color: #f7fffb; */
+	font-size: large;
 }
 
-
-td.label {
-    /* Issue #290 */
-    background-color: inherit;
+.container {
+	hyphens: manual;
+	-webkit-hyphens: manual;
+	-moz-hyphens: manual;
 }
 
-.footnote-reference {
-    /* Issue 290 */
-    vertical-align: super;
-    font-size: xx-small;
+.container h1 {
+	text-align: center;
+	font-size: 450%;
+	font-weight: bold;
+	font-family: 'sans';
 }
 
-.caption {
-    /* Issue 292 */
-    text-align: center;
-    padding-top: 1em;
+.storypage {
+    margin-top:10px;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 
-div.figure > img,
-div.figure > a > img {
-    /* Issue 292 */
+.metadata {
+    padding-left: 10px;
+}
+
+h1 a {
+	color: #222222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-top: 0.2em;
+	hyphens: none;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+}
+
+.jumbotron {
+	position: relative;
+	height: 60%;
+	color: inherit;
+	background-image: url('../img/home_banner.jpg');
+	background-position: top center;
+	background-size: cover;
+	padding: 9px 11px;
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+	-moz-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+	box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+}
+
+.jumbotron .photo-copy {
+	color: #fff;
+	position:absolute;
+	bottom:5px;
+	right:5px;
+	margin-bottom: -10px;
+}
+
+.jumbotron .photo-copy a {
+    color: #fff;
+}
+
+footer {
+	margin-bottom: 5px;
+}
+
+.papertitle {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-blockquote p, blockquote {
-  font-size: 1.25rem;
-  font-weight: 300;
-  line-height: 1.25;
-}
-
-ul.bricks > li {
-    display: inline;
-    background-color: lightblue;
-    padding: 8px;
-    border-radius: 5px;
-    line-height: 3;
-    white-space:nowrap;
-    margin: 3px;
-}
-
-pre, pre code {
-    white-space: pre;
-    word-wrap: normal;
-    overflow: auto;
-}
-
-article.post-micro {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.5em;
-}
-
-.image-block {
-    display: inline-block;
-}
-
-.tags {
-    padding-left: 0;
-    margin-left: -5px;
-    list-style: none;
-    text-align: center;
-
-}
-
-.tags > li {
-    display: inline-block;
-}
-.tags > li a {
-    display: inline-block;
-    padding: .25em .4em;
-    font-size: 75%;
-    font-weight: 700;
-    line-height: 1;
-    color: #fff;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25rem;
-    background-color: #868e96;
-}
-
-.tags > li a:hover {
-    color: #fff;
-    text-decoration: none;
-    background-color: #6c757d;
-}
-
-.metadata p:before,
-.postlist .listdate:after {
-    content: " — ";
-}
-
-.metadata p:first-of-type:before {
-    content: "";
-}
-
-.metadata p {
-    display: inline;
-}
-
-.posttranslations h3 {
-    display: inline;
-    font-size: 1em;
     font-weight: bold;
+    font-size: 110%;
 }
 
-.posttranslations h3:last-child {
-    display: none;
+.paperblock {
+    padding-bottom: 1em;
 }
 
-.entry-content {
-    margin-top: 1em;
+a .anchor {
+    display: block;
+    padding-top: 50px;
 }
 
-/* for alignment with Bootstrap's .entry-content styling */
-.entry-summary {
-    margin-top: 1em;
-}
-
-/* Custom page footer */
-#footer {
-    padding-top: 19px;
-    color: #777;
-    border-top: 1px solid #e5e5e5;
-}
-
-.codetable {
-    table-layout: fixed;
-}
-
-.codetable pre {
-    overflow-x: scroll;
-}
-
-/* hat tip bootstrap/html5 boilerplate */
-@media print {
-    *, *:before, *:after {
-        font-family: Garamond, Junicode, serif;
-    }
-
-    body {
-        font-size: 12pt;
-    }
-
-    article .entry-title a[href]:after,
-    article .metadata a[href]:after,
-    article .tags a[href]:after {
-        content: "";
-    }
-
-    article .metadata .sourceline {
-        display: none;
-    }
-
-    article .metadata .linkline a[href]:after {
-        content: " (" attr(href) ")";
-    }
-
-    .navbar {
-        display: none;
-    }
-}
-
-pre {
-    border: 1px solid #ccc;
-    border-radius: 0.25rem;
-    padding: 0.75rem;
-}
-
-.postindexpager {
-    padding-bottom: 1rem;
-}
-
-ul.navbar-nav {
-    margin-top: 0;
-}
-
-ul.pager {
-    display: flex;
-    padding-left: 0;
-    list-style: none;
-    border-radius: .25rem;
-    padding-left: 0;
-    margin: 0.5rem 0;
-}
-
-ul.pager li.previous {
-    margin-right: auto;
-    display: inline;
-}
-
-ul.pager li.next {
-    margin-left: auto;
-    display: inline;
-}
-
-
-ul.pager li a {
-    display: inline;
+/* YouTube responsive embed from
+See more at: http://avexdesigns.com/responsive-youtube-embed/#sthash.bOTFuSnA.dpuf
+ */
+.video-container {
     position: relative;
-    padding: .5rem .75rem;
-    margin-left: -1px;
-    line-height: 1.25;
-    border: 1px solid #ddd;
-    border-radius: .25rem;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
 }
 
-.codetable td {
-    padding: 0;
-    margin: 0;
-    border-radius: 0;
-}
-
-.codetable td.linenos pre {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-    border-right: none;
-}
-
-.codetable td.code pre.code {
-    margin-left: 0;
-    margin-right: 0;
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
