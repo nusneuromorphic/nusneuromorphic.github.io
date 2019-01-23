@@ -10,4 +10,13 @@
 -->
 
 We are a Research Group based on NUS (Temasek Laboratories and SINAPSE).
-Our research focuses on neuromorphic computing, spiking neural networks, event-based vision with the aim of developing efficient algorithms for low resource applications and high temporal fidelity. 
+Our lab performs research on neuromorphic computing, spiking neural networks, 
+event-based vision with the aim of developing efficient algorithms for 
+low resource applications and high temporal fidelity. 
+
+<table style="width:100%">
+  <tr>
+    <td align=left> <img src="/galleries/nus-temaseklab.jpg" width="400"/></td>
+    <td align=right><img src="/galleries/sinapse.png" width="400"/>       </td> 
+  </tr>
+</table> 
