@@ -616,7 +616,7 @@ html {
 body {
 	height: 100%;
 	padding-top: 50px;
-	font-family: 'sans';
+	/*font-family: 'sans';*/
 /*	background-color: #f7fffb; */
 	font-size: large;
 }
@@ -631,7 +631,7 @@ body {
 	text-align: center;
 	font-size: 450%;
 	font-weight: bold;
-	font-family: 'sans';
+	/*font-family: 'sans';*/
 }
 
 .storypage {

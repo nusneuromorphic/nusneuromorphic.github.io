@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://nusneuromorphic.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-01-23T05:53:00Z</lastmod>
+  <lastmod>2019-01-23T06:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nusneuromorphic.github.io/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>https://nusneuromorphic.github.io/sitemap.xml</loc>
-  <lastmod>2019-01-23T05:53:00Z</lastmod>
+  <lastmod>2019-01-23T06:09:00Z</lastmod>
  </sitemap>
 </sitemapindex>
