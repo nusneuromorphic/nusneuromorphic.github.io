@@ -16,7 +16,7 @@ low resource applications and high temporal fidelity.
 
 <table style="width:100%">
   <tr>
-    <td align=left> <img src="/galleries/nus-temaseklab.jpg" width="400"/></td>
-    <td align=right><img src="/galleries/sinapse.png" width="400"/>       </td> 
+    <td align=left> <img src="/images/logos/nus-temaseklab.jpg" width="400"/></td>
+    <td align=right><img src="/images/logos/sinapse.png" width="400"/>       </td> 
   </tr>
 </table> 

@@ -18,7 +18,7 @@
 <!-- -->
 
 <div class="container-fluid" style="clear:both">
-<h2>Bharath Ramesh, Research scientist</h2>
+<h1>Bharath Ramesh, Research scientist</h1>
 
 <img src="/images/Lab_pics/Bharath.jpg" width="200" alt="Bharath picture" class="float-img"/>
 
@@ -29,18 +29,18 @@
 
 <div class="container-fluid" style="clear:both">
 <br>
-<h2>Sumit Bam Shrestha, Research Scientist</h2>
+<h1>Sumit Bam Shrestha, Research Scientist</h1>
 
 <img src="/images/Lab_pics/Sumit.jpg" width="200" alt="Sumit picture" class="float-img"/>
 <br>
 
-<p style="text-align:justify">Sumit Bam Shrestha received his PhD from School of EEE, Nanyang Technological University, Singapore. His research is mainly focused on Spiking Neural Networks and also include Neural Networks, Machine Learning, Image Processing and Pattern Recognition.</p>
+<p style="text-align:justify">Sumit Bam Shrestha received his PhD from School of EEE, Nanyang Technological University, Singapore. His research is mainly focused supervised learning in Deep Spiking Neural Networks and their application to event based vision, event based audio tasks as well as for configuring neuromorphic hardware. His research interests also include Deep Learning, Machine Learning, Image Processing and Pattern Recognition.</p>
 </div>
 
 
 <div class="container-fluid" style="clear:both">
 <br>
-<h2>Fabien Colonnier, Research Scientist</h2>
+<h1>Fabien Colonnier, Research Scientist</h1>
 
 <img src="/images/Lab_pics/Fabien.jpg" width="200" alt="Fabien picture" class="float-img"/>
 <br>
@@ -51,7 +51,7 @@
 
 <div class="container-fluid" style="clear:both">
 <br>
-<h2>Andrés Camillo Ussa Caycedo, Associate Scientist</h2>
+<h1>Andrés Camillo Ussa Caycedo, Associate Scientist</h1>
 
 <img src="/images/Lab_pics/Andres.jpg" width="200" alt="Andres picture" class="float-img"/>
 <br>
