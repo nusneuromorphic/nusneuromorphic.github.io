@@ -7,38 +7,46 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nusneuromorphic.github.io/</loc>
-  <lastmod>2019-01-23T03:30:00Z</lastmod>
+  <lastmod>2019-01-23T07:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/archive.html</loc>
-  <lastmod>2019-01-23T08:07:00Z</lastmod>
+  <lastmod>2019-01-23T06:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/blog/</loc>
-  <lastmod>2019-01-23T02:58:00Z</lastmod>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/categories/</loc>
-  <lastmod>2019-01-23T02:58:00Z</lastmod>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/code/</loc>
-  <lastmod>2019-01-23T02:58:00Z</lastmod>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/contact/</loc>
-  <lastmod>2019-01-23T02:58:00Z</lastmod>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nusneuromorphic.github.io/galleries/</loc>
+  <lastmod>2019-01-23T06:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/labmembers/</loc>
-  <lastmod>2019-01-23T02:58:00Z</lastmod>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nusneuromorphic.github.io/listings/</loc>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/openings/</loc>
-  <lastmod>2019-01-23T02:58:00Z</lastmod>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
  </url>
  <url>
   <loc>https://nusneuromorphic.github.io/research/</loc>
-  <lastmod>2019-01-23T02:58:00Z</lastmod>
+  <lastmod>2019-01-23T05:05:00Z</lastmod>
  </url>
 </urlset>
