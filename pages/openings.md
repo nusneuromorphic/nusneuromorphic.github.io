@@ -33,10 +33,10 @@ Interested applicants are encouraged to contact us with a CV at the following em
 >* Strong publication record
 >* Good communication skills and ability to work in a team
 >* Preference will be given to candidates with experience in:
->	* Machine Learning
->	* Computer Vision
->	* Neuromorphic Engineering
->	* Embedded Hardware
+>>	* Machine Learning
+>>	* Computer Vision
+>>	* Neuromorphic Engineering
+>>	* Embedded Hardware
 	
 # Associate Scientist #
 
@@ -46,10 +46,10 @@ Interested applicants are encouraged to contact us with a CV at the following em
 >* Strong programming skills
 >* Good communication skills and ability to work in a team
 >* Preference will be given to candidates with experience in:
->	* Machine Learning
->	* Computer Vision
->	* Neuromorphic Engineering
->	* Embedded Hardware
+>>	* Machine Learning
+>>	* Computer Vision
+>>	* Neuromorphic Engineering
+>>	* Embedded Hardware
 
 # Internships #
 
