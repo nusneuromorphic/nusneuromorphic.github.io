@@ -138,8 +138,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
     	# ("/index.html", "Welcome"),
     	("/labmembers/index.html", "Lab Members"),
-    	("/code/index.html", "Code"),
     	("/research/index.html", "Research"),
+    	("/code/index.html", "Code"),
     	("/openings/index.html", "Openings"),
     	("/contact/index.html", "Contact"),
         # ("/archive.html", "Archive"),
