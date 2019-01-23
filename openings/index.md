@@ -64,4 +64,4 @@ Interested applicants are encouraged to contact us with a CV at the following em
 >We welcome and actively encourage visiting professors and graduate students to spend time with us. 
 >Please email us to find out more on it.
 
-<a name="applicaitonNote">1</a>: Only shortlisted applicants will be notified.
+<a name="applicaitonNote"><sup>1</sup></a> Only shortlisted applicants will be notified.
