@@ -60,6 +60,135 @@
 </div>
 
 <div class="container-fluid" style="clear:both">
+<br><br>
 </div>
+
+
+<h1>Former Lab Members</h1>
+
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+
+<table>
+  <tr>
+    <th>Garrick Orchard</th>
+    <td>Senior Research Scientist, founder of the Lab </td>
+    <td> <a href="https://www.garrickorchard.com/home"> (personal website)</a> </td>
+  </tr>
+  <tr>
+    <th>Luca Della Vedova</th>
+    <td>Associate Scientist</td>
+    <td><a href="http://lucadellavedova.com/"> (personal website)</a> </td>
+  </tr>
+  <tr>
+    <th>Chen Yu</th>
+    <td>Associate Scientist</td>
+    <td> now at ... </td>
+  </tr>
+  <tr>
+    <th>Yang Hong</th>
+    <td>Associate Scientist</td>
+    <td>still in T-lab </td>
+  </tr>
+  <tr>
+    <th>Cedric Seah</th>
+    <td>Adjunct Research Scientist</td>
+    <td>returning to focus on his main position with ST Engineering </td>
+  </tr>
+  <tr>
+    <th>Balakrishna Deverakonda</th>
+    <td>Research Associate</td>
+    <td>now working at NTU, Singapore </td>
+  </tr>
+  <tr>
+    <th>Zhen Xie </th>
+    <td>Visiting Student</td>
+    <td>obtained his PhD from Zhejiang University of Technology. Now working for Ali-cloud  </td>
+  </tr>
+  <tr>
+    <th>Rong Xiao </th>
+    <td>Visiting Student</td>
+    <td>pursuing her PhD at Sichuan University, China </td>
+  </tr>
+  <tr>
+    <th>Sherine Rose</th>
+    <td>Research Associate</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <th>Amirezza Yousefsadeh </th>
+    <td>Visiting Student</td>
+    <td>now pursuing his PhD at University of Sevilla, Spain </td>
+  </tr>
+  <tr>
+    <th>Lennart Walger </th>
+    <td>Visiting Student</td>
+    <td><a href="https://lennartwalger.com/"> (personal website)</a> </td>
+  </tr>
+  <tr>
+    <th>Beeren Sahu </th>
+    <td>Visiting Research Scientist</td>
+    <td>continuing work at SRM Bangalore </td>
+  </tr>
+  <tr>
+    <th>Satish Vithanala </th>
+    <td>Visiting Research Scientist</td>
+    <td>continuing work at SRM Bangalore </td>
+  </tr>
+  <tr>
+    <th>Sharad Sinha </th>
+    <td>Research Scientist </td>
+    <td> <a href="https://sharadsinha.wordpress.com/"> (personal website)</a> </td>
+  </tr>
+  <tr>
+    <th>Sahar Hosseini </th>
+    <td>Visiting Student</td>
+    <td>pursuing her MS at University of Sevilla, Spain </td>
+  </tr>
+  <tr>
+    <th>Daniel Czech </th>
+    <td>Visiting Student</td>
+    <td>pursuing his PhD at University of Cape Town, South Africa </td>
+  </tr>
+  <tr>
+    <th>Gregory Cohen </th>
+    <td>Visiting Student</td>
+    <td>tenured at Western Sydney University </td>
+  </tr>
+  <tr>
+    <th>David Reverter Valeiras </th>
+    <td>Visiting Student</td>
+    <td>obtained his PhD at University Pierre and Marie Curie </td>
+  </tr>
+  <tr>
+    <th>Xavier Lagorce </th>
+    <td>Visiting Student</td>
+    <td>working for Prophesee </td>
+  </tr>
+  <tr>
+    <th>Rohan Ghosh </th>
+    <td>Intern</td>
+    <td>pursuing his PhD at National University of Singapore </td>
+  </tr>
+  
+</table>
+
+
+
 
 
