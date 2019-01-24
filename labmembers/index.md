@@ -108,7 +108,12 @@ tr:nth-child(even) {
   <tr>
     <th>Cedric Seah</th>
     <td>Adjunct Research Scientist</td>
-    <td>returning to focus on his main position with ST Engineering </td>
+    <td>returned to focus on his main position with ST Engineering </td>
+  </tr>
+  <tr>
+    <th>Yongsheng Sang </th>
+    <td>Visiting Research Scientist</td>
+    <td>returned to his lecturer position at Sichuan University, China </td>
   </tr>
   <tr>
     <th>Balakrishna Deverakonda</th>
