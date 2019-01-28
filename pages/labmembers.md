@@ -25,7 +25,7 @@
 <p style="text-align:justify">Bharath's main research interests include pattern recognition and computer vision. At present, his research is centered on event-based cameras for autonomous sensing and navigation. This includes tracking and recognition with an array of sensors, most importantly event-based cameras, to be processed efficiently on low-power devices to yield accurate results at real-time. In the past, he has mostly worked on object recognition and related areas such as scene understanding, face recognition, and object detection. He received the B.E. degree in electrical & electronics engineering from Anna University of India in 2009; M.Sc. and Ph.D. degrees in electrical engineering from National University of Singapore in 2011 and 2015 respectively, working at the Control and Simulation Laboratory on Image Classification using Invariant Features. <br>
 <a href="https://sites.google.com/view/bharath-ramesh/"> Personal website</a>
 
-<a href="https://scholar.google.com.sg/citations?hl=en&user=dh9MPA0AAAAJ/"> Google Scholar</a>
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIy6iGkpDgAhULVH0KHRt1C74QFjAAegQIBxAB&url=http%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Ddh9MPA0AAAAJ%26hl%3Den&usg=AOvVaw2Ancz93b9OL-r9drLJhyPd"> Google Scholar</a>
 </p>
 </div>
 
