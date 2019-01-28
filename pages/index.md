@@ -16,10 +16,9 @@
   </tr>
 </table> 
 
-We are a Research Group based on NUS (Temasek Laboratories and SINAPSE).
-Our lab performs research on neuromorphic computing, spiking neural networks, 
-event-based vision with the aim of developing efficient algorithms for 
-low resource applications and high temporal fidelity. 
+We are a research group based in <a href="http://www.temasek-labs.nus.edu.sg/"> Temasek Laboratories</a> and <a href="https://www.sinapse.institute/"> Singapore Institute for Neurotechnology (SINAPSE) </a> at the National University of Singapore. 
+
+Our lab performs research on neuromorphic computing, spiking neural networks, and event-based vision with the aim of developing efficient algorithms for low resource applications with high temporal fidelity. 
 
 <p align=center>
 	<img src="/images/welcome/EyeCamera.jpg"  width="300"/>
