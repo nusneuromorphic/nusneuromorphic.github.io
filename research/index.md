@@ -21,6 +21,16 @@
 >	<iframe width="512" height="288" src="https://www.youtube.com/embed/JGdatqqci5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ></p> 
 
+## Event-based Vision ##
+>Supervised learning and low-power processing of data from event based cameras
+>such as dynamic vision sensor (DVS), Asynchronous Time-based Image Sensor (ATIS) etc., is another major focus of research in our team. 
+>We are looking to use reconfigurable hardware, such as FPGAs, and ARM processors, for implementation of novel event-based algorithms
+>for power efficient computing.
+><p align=center>
+>	<iframe width="512" height="288" src="https://www.youtube.com/embed/h3SgXa47Kjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+></p> 
+
+
 # __Publications__ #
 
 ## Journals ##
@@ -38,6 +48,8 @@
 >Ramesh B., Zhang S., Lee Z.W., Gao Z., Orchard G. and Xiang C. "Long-term Object Tracking with a Moving Event Camera", <i>British Machine Vision Conference</i>, Newcastle, England, Sept 2018
 >
 >Tun Aung M., Teo R. and Orchard G. “Event-based Plane-fitting Optical Flow for Dynamic Vision Sensors in FPGA” <i>IEEE Int. Symp. Circuits Syst.</i>, Florence, Italy, May 2018
+>
+>Ramesh B., Le Thi N., Orchard G. and Xiang C. "Spike Context: A Neuromorphic Descriptor for Pattern Recognition", <i>IEEE Biomed. Circuits Syst.</i>, Turin, Italy, Oct 2017
 >
 >Czech D. and Orchard G. "Evaluating Noise Filtering for Event-based Asynchronous Change Detection Image Sensors" <i>6th IEEE RAS & EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob)</i>, Singapore, June 2016
 
