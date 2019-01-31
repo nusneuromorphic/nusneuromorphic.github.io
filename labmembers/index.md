@@ -22,11 +22,19 @@
 
 <img src="/images/Lab_pics/Bharath.jpg" width="200" alt="Bharath picture" class="float-img"/>
 
-<p style="text-align:justify">Bharath's main research interests include pattern recognition and computer vision. At present, his research is centered on event-based cameras for autonomous sensing and navigation. This includes tracking and recognition with an array of sensors, most importantly event-based cameras, to be processed efficiently on low-power devices to yield accurate results at real-time. In the past, he has mostly worked on object recognition and related areas such as scene understanding, face recognition, and object detection. He received the B.E. degree in electrical & electronics engineering from Anna University of India in 2009; M.Sc. and Ph.D. degrees in electrical engineering from National University of Singapore in 2011 and 2015 respectively, working at the Control and Simulation Laboratory on Image Classification using Invariant Features. <br>
-<a href="https://sites.google.com/view/bharath-ramesh/"> Personal website</a>
-
-<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIy6iGkpDgAhULVH0KHRt1C74QFjAAegQIBxAB&url=http%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Ddh9MPA0AAAAJ%26hl%3Den&usg=AOvVaw2Ancz93b9OL-r9drLJhyPd"> Google Scholar</a>
+<p style="text-align:justify">
+	Bharath's main research interests include pattern recognition and computer vision. 
+	At present, his research is centered on event-based cameras for autonomous sensing and navigation. 
+	This includes tracking and recognition with an array of sensors, most importantly event-based cameras, 
+	to be processed efficiently on low-power devices to yield accurate results at real-time. 
+	In the past, he has mostly worked on object recognition and related areas such as scene understanding, 
+	face recognition, and object detection. 
+	He received the B.E. degree in electrical & electronics engineering from Anna University of India in 2009; 
+	M.Sc. and Ph.D. degrees in electrical engineering from National University of Singapore in 2011 and 2015 respectively, 
+	working at the Control and Simulation Laboratory on Image Classification using Invariant Features. 
 </p>
+<a href="https://sites.google.com/view/bharath-ramesh/"> Personal website</a>,
+<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIy6iGkpDgAhULVH0KHRt1C74QFjAAegQIBxAB&url=http%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Ddh9MPA0AAAAJ%26hl%3Den&usg=AOvVaw2Ancz93b9OL-r9drLJhyPd"> Google Scholar</a>
 </div>
 
 <div class="container-fluid" style="clear:both">
@@ -36,7 +44,14 @@
 <img src="/images/Lab_pics/Sumit.jpg" width="200" alt="Sumit picture" class="float-img"/>
 <br>
 
-<p style="text-align:justify">Sumit Bam Shrestha received his PhD from School of EEE, Nanyang Technological University, Singapore. His research is mainly focused supervised learning in Deep Spiking Neural Networks and their application to event based vision, event based audio tasks as well as for configuring neuromorphic hardware. His research interests also include Deep Learning, Machine Learning, Image Processing and Pattern Recognition.</p>
+<p style="text-align:justify">
+	Sumit Bam Shrestha received his PhD from School of EEE, Nanyang Technological University, 
+	Singapore. His research is mainly focused supervised learning in Deep Spiking Neural Networks and 
+	their application to event based vision, event based audio tasks as well as for configuring neuromorphic hardware. 
+	His research interests also include Deep Learning, Machine Learning, Image Processing and Pattern Recognition.
+</p>
+<a href="https://scholar.google.com.sg/citations?user=gwxvD0IAAAAJ&hl=en"> Google Scholar</a>, 
+<a href="https://www.researchgate.net/profile/Sumit_Shrestha"> Research Gate</a>
 </div>
 
 
@@ -47,7 +62,17 @@
 <img src="/images/Lab_pics/Fabien.jpg" width="200" alt="Fabien picture" class="float-img"/>
 <br>
 
-<p style="text-align:justify">Fabien received his MSc in automotive engineering with a speciality on embedded systems from the ESTACA engineering school in 2012 and his PhD degree in bio-robotics from the Aix-Marseille University in 2017, both in France. He was early interested in autonomous vehicles and robots. An opportunity to work on bio-inspired vision attracted him. His research on the fly’s compound eyes made him realized how impressive these insects are (he does not swat them anymore, except mosquitos which are really annoying!). His current research interests include bio-inspired vision, event-based camera, computer vision and their applications to aerial and ground vehicles.</p>
+<p style="text-align:justify">
+	Fabien received his MSc in automotive engineering with a speciality on embedded systems from the ESTACA engineering school in 2012 and 
+	his PhD degree in bio-robotics from the Aix-Marseille University in 2017, both in France. 
+	He was early interested in autonomous vehicles and robots. 
+	An opportunity to work on bio-inspired vision attracted him. His research on the fly’s compound eyes made him realize 
+	how impressive these insects are (he does not swat them anymore, 
+	except mosquitos which are really annoying!). 
+	His current research interests include bio-inspired vision, event-based camera, computer vision and 
+	their applications to aerial and ground vehicles.
+</p>
+<a href="https://scholar.google.com.sg/citations?user=sxMxQZoAAAAJ&hl=en"> Google Scholar</a>
 </div>
 
 
@@ -58,7 +83,12 @@
 <img src="/images/Lab_pics/Andres.jpg" width="200" alt="Andres picture" class="float-img"/>
 <br>
 
-<p style="text-align:justify">Andrés received his MSc from TU Kaiserslautern and University of Southampton in Embedded Computing Systems. His previous research experience has been focused on embedded systems design and machine learning applications. He had a short experience as a Software/Hardware Developer for consumer electronics.</p>
+<p style="text-align:justify">
+	Andrés received his MSc from TU Kaiserslautern and University of Southampton in Embedded Computing Systems. 
+	His previous research experience has been focused on embedded systems design and machine learning applications. 
+	He had a short experience as a Software/Hardware Developer for consumer electronics.
+</p>
+<a href="https://scholar.google.com.sg/citations?user=8TpAmswAAAAJ&hl=en"> Google Scholar</a>
 </div>
 
 <div class="container-fluid" style="clear:both">

@@ -9,7 +9,19 @@
 .. type: text
 -->
 
-# Publications #
+# __Research Topics__ #
+
+## Spiking Neural Networks ##
+>Spiking Neural Networks use biologically plausible models of neuron as their computational unit.
+>It is one of the major foucus of our research, especially supervised learning for processing data from event based senosrs
+>such as silicon retina, silicon cochlea etc.
+>We are also looking to configure spiking neural networks for implementation in neuromorphic hardwares
+>for power efficient computing.
+><p align=center>
+>	<iframe width="512" height="288" src="https://www.youtube.com/embed/JGdatqqci5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+></p> 
+
+# __Publications__ #
 
 ## Journals ##
 
