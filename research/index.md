@@ -54,7 +54,7 @@
 >
 >Colonnier F., Della Vedova L., Teo R.S.H and Orchard G. "Obstacle Avoidance using Eventbased Visual Sensor and Time-To-Contact Processing", <i>Australasian Conference on Robotics and Automation</i>, Lincoln, New Zealand, Dec 2018 <a href="https://ssl.linklings.net/conferences/acra/acra2018_proceedings/views/includes/files/pap104s1-file1.pdf"> PDF</a>, <a href="https://linklings.s3.amazonaws.com/organizations/acra/acra2018/submissions/stype101/UGjfY-pap104s1-file2.mp4"> video</a>
 >
->Ramesh B., Zhang S., Lee Z.W., Gao Z., Orchard G. and Xiang C. "Long-term Object Tracking with a Moving Event Camera", <i>British Machine Vision Conference</i>, Newcastle, England, Sept 2018
+>Ramesh B., Zhang S., Lee Z.W., Gao Z., Orchard G. and Xiang C. "Long-term Object Tracking with a Moving Event Camera", <i>British Machine Vision Conference</i>, Newcastle, England, Sept 2018 <a href="http://bmvc2018.org/contents/papers/0814.pdf"> PDF</a>, <a href="https://youtu.be/3cigR9Al23A"> video</a>
 >
 >Tun Aung M., Teo R. and Orchard G. “Event-based Plane-fitting Optical Flow for Dynamic Vision Sensors in FPGA” <i>IEEE Int. Symp. Circuits Syst.</i>, Florence, Italy, May 2018
 >
