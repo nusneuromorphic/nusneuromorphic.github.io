@@ -28,6 +28,15 @@
 >for power efficient computing.
 ><p align=center>
 >	<iframe width="512" height="288" src="https://www.youtube.com/embed/h3SgXa47Kjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>The Xilinx Zynq-7020 FPGA was interfaced to a down-looking DAVIS camera, on-board an unmanned aerial vehicle, recognizing different objects beneath it. 
+
+>Besides low-power hardware implementations, we also carry out academically oriented work for object tracking, learning and detection.
+
+><p align=center>
+>	<iframe width="512" height="288" src="https://www.youtube.com/embed/3cigR9Al23A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ></p> 
 
 
