@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
     	("/contact/index.html", "Contact"),
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        # ("/rss.xml", "RSS feed"),
     ),
 }
 
