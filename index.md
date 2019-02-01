@@ -17,8 +17,8 @@
 </table> 
 
 We are a research group based in 
-[Temasek Laboratories]("http://www.temasek-labs.nus.edu.sg/") and 
-[Singapore Institute for Neurotechnology (SINAPSE)]("https://www.sinapse.institute/") at the National University of Singapore. 
+[Temasek Laboratories](http://www.temasek-labs.nus.edu.sg/) and 
+[Singapore Institute for Neurotechnology (SINAPSE)](https://www.sinapse.institute/) at the National University of Singapore. 
 
 Our lab performs research on neuromorphic computing, spiking neural networks, and 
 event-based vision with the aim of developing efficient algorithms for 
