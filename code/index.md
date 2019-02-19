@@ -12,6 +12,13 @@
 We often publically release the code developed in-house. 
 Below are a list of such codes released for public use, their short description and their link.
 
+## DART: Distribution Aware Retinal Transform ##
+>__Repository link__: [Source code (with tracking annotations)](https://goo.gl/cVNWLB)
+>
+>DART is an event-based feature descriptor for silicon retinas.
+>The source code is also part of the submission to a journal, available publicly on [arXiV](https://arxiv.org/abs/1710.10800). 
+>The DART descriptor has been applied to four different problems, namely object classification, tracking, detection and feature matching.
+
 ## SLAYER : Spike LAYer Error Reassignment ##
 >__Repository link__: [https://bitbucket.org/bamsumit/slayer](https://bitbucket.org/bamsumit/slayer)
 >
