@@ -16,11 +16,11 @@ Interested applicants are encouraged to contact us with a CV at the following em
 <table>
   <tr>
     <td><b> Temasek Laboratories : </b></th>
-    <td>Sumit Bam Shrestha <a href="mailto:tslsbs@nus.edu.sg" >(tslsbs@nus.edu.sg)</a></td>
+    <td>Sumit Bam Shrestha (tslsbs AT nus (DOT) edu (DOT) sg) </td>
   </tr>
   <tr>
     <td><b> SINAPSE : </b></th> 
-    <td>Bharath Ramesh <a href="mailto:lsirame@nus.edu.sg">(lsirame@nus.edu.sg)   </a></td> 
+    <td>Bharath Ramesh (lsirame AT nus (DOT) edu (DOT) sg) </td> 
   </tr>
 </table> 
 
