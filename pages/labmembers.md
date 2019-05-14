@@ -18,7 +18,7 @@
 <!-- -->
 
 <div class="container-fluid" style="clear:both">
-<h1>Bharath Ramesh, Research scientist</h1>
+<h1>Bharath Ramesh, Senior Research Fellow</h1>
 
 <img src="/images/Lab_pics/Bharath.jpg" width="200" alt="Bharath picture" class="float-img"/>
 
@@ -78,7 +78,7 @@
 
 <div class="container-fluid" style="clear:both">
 <br>
-<h1>Andrés Camillo Ussa Caycedo, Associate Scientist</h1>
+<h1>Andrés Camillo Ussa Caycedo, Research Assistant</h1>
 
 <img src="/images/Lab_pics/Andres.jpg" width="200" alt="Andres picture" class="float-img"/>
 <br>
