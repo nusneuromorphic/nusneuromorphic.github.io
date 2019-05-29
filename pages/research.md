@@ -43,7 +43,8 @@
 # __Publications__ #
 
 ## Journals ##
-
+>Ramesh B., Yang H., Orchard G., Le Thi N., Zhang S. and Xiang C. "DART: Distribution Aware Retinal Transform for Event-based Cameras" <i>IEEE Transactions on Pattern Analysis and Machine Intelligence,  DOI: 10.1109/TPAMI.2019.2919301 </i>, May 2019 <a href="https://ieeexplore.ieee.org/document/8723171"> link</a>
+>
 >Zhen X., Sheng Y.C. and Orchard, G. "Event-based Stereo Depth Estimation Using Belief Propagation" <i>Frontiers in Neuroscience vol. 11, pp. 535</i>, Oct. 2017 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2017.00535/full"> link</a>
 
 ## Conference proceedings ##
