@@ -35,14 +35,14 @@ At __Temasek laboratories__,
 >in an ongoing collaboration with __A*STAR__(Agency for Science, Technology and Research) on their efficient neuromorphic computing program.
 >In addition, you will have an oppertunity to work on cutting edge neuromorphic processors such as IBM's __TrueNorth__ and Intel's __Loihi__.
 >
->Contact: Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg)
+>__Email to__: Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg)
 
 At __SINAPSE__,
 >you will work in neuromorphic vision, object recognition and tracking for low power system application
 >including sensor integration and FPGA deployment. 
 >You will predominantly work on event-based camera sensors, which are low power image sensors with high temporal resolution, high dynamic range aynchronous signal output.
 >
->Contact: Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg)
+>__Email to__: Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg)
 
 
 Interested applicants are encouraged to contact us with a CV at the respective email addresses:<sup>[1](#applicaitonNote)</sup>
