@@ -9,6 +9,7 @@
 .. type: text
 -->
 
+<!--
 We have several openings available at
 [Temasek Laboratories](http://www.temasek-labs.nus.edu.sg/)
 and the Singapore Institute of Neurotechnology (SINAPSE).
@@ -16,13 +17,35 @@ Interested applicants are encouraged to contact us with a CV at the following em
 <table>
   <tr>
     <td><b> Temasek Laboratories : </b></th>
-    <td>Sumit Bam Shrestha (tslsbs AT nus (DOT) edu (DOT) sg) </td>
+    <td>Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg) </td>
   </tr>
   <tr>
     <td><b> SINAPSE : </b></th> 
-    <td>Bharath Ramesh (lsirame AT nus (DOT) edu (DOT) sg) </td> 
+    <td>Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg) </td> 
   </tr>
 </table> 
+-->
+
+We have several openings available at
+[Temasek Laboratories](http://www.temasek-labs.nus.edu.sg/)
+and the Singapore Institute of Neurotechnology (SINAPSE).
+
+At __Temasek laboratories__,
+>you will work in the field of neuromorphic engineering, especially from an algorithmic prespective,
+>in an ongoing collaboration with __A*STAR__(Agency for Science, Technology and Research) on their efficient neuromorphic computing program.
+>In addition, you will have an oppertunity to work on cutting edge neuromorphic processors such as IBM's __TrueNorth__ and Intel's __Loihi__.
+>
+>Contact: Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg)
+
+At __SINAPSE__,
+>you will work in neuromorphic vision, object recognition and tracking for low power system application
+>including sensor integration and FPGA deployment. 
+>You will predominantly work on event-based camera sensors, which are low power image sensors with high temporal resolution, high dynamic range aynchronous signal output.
+>
+>Contact: Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg)
+
+
+Interested applicants are encouraged to contact us with a CV at the respective email addresses:<sup>[1](#applicaitonNote)</sup>
 
 # Research Scientist (Post-Doc) #
 

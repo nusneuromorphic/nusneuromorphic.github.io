@@ -26,6 +26,11 @@ Below are a list of such codes released for public use, their short description 
 >This repo is the SLAYER framework implementation that utilizes GPU parallel execution and 
 >can be used to train your Spiking Neural Networks on your own data.
 
+## SLAYER PyTorch ##
+>__Repository link__: [https://github.com/bamsumit/slayerPytorch](https://github.com/bamsumit/slayerPytorch)
+>
+>This is PyTorch port of SLAYER algorithm for Deep Spiking Neural Networks. Some of the features are still in development.
+
 ## Spike Files Read Write ##
 >__Repository link__: [https://bitbucket.org/bamsumit/spikefilesreadwrite](https://bitbucket.org/bamsumit/spikefilesreadwrite)
 >
@@ -36,3 +41,8 @@ Below are a list of such codes released for public use, their short description 
 >__Repository link__: [https://github.com/gorchard/Matlab_AER_vision_functions](https://github.com/gorchard/Matlab_AER_vision_functions)
 >
 >This repository contains some commonly used `MATLAB` functions for working with and displaying AER vision data.
+
+## Neuromorphic Datasets ##
+>__Link:__: [https://www.garrickorchard.com/datasets](https://www.garrickorchard.com/datasets)
+>
+> These are neuromorphic vision datasets captured using DVS sensor: __N-MNIST__, __N-Caltech101__, __Characters__.
