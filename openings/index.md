@@ -31,9 +31,9 @@ We have several openings available at
 and the Singapore Institute of Neurotechnology (SINAPSE).
 
 At __Temasek laboratories__,
->you will work in the field of neuromorphic engineering, especially from an algorithmic prespective,
+>you will work in the field of neuromorphic engineering, especially from an algorithmic perspective,
 >in an ongoing collaboration with __A*STAR__(Agency for Science, Technology and Research) on their efficient neuromorphic computing program.
->In addition, you will have an oppertunity to work on cutting edge neuromorphic processors such as IBM's __TrueNorth__ and Intel's __Loihi__.
+>In addition, you will have an opportunity to work on cutting edge neuromorphic processors such as IBM's __TrueNorth__ and Intel's __Loihi__.
 >
 >__Email to__: Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg)
 
