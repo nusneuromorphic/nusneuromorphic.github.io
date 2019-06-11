@@ -91,6 +91,48 @@
 <a href="https://scholar.google.com.sg/citations?user=8TpAmswAAAAJ&hl=en"> Google Scholar</a>
 </div>
 
+
+
+<div class="container-fluid" style="clear:both">
+<br>
+<h1>Chockalingam SenthilRajan, Research Intern</h1>
+
+<img src="/images/Lab_pics/chockalingam.JPG" width="200" alt="Chockalingam picture" class="float-img"/>
+<br>
+
+<p style="text-align:justify">
+	Chockalingam's main research is focused on computer vision and Deep learning. He is currently pursuing B.Tech degree in Instrumentation and Control from National Institute of Technology of India. His present research work is in the field of event based cameras for classification using TrueNorth architecture and comparison with standard cameras.
+</p>
+</div>
+
+
+<div class="container-fluid" style="clear:both">
+<br>
+<h1>Mohit Sarin, Research Intern</h1>
+
+<img src="/images/Lab_pics/mohit.jpg" width="200" alt="Mohit picture" class="float-img"/>
+<br>
+
+<p style="text-align:justify">
+	Mohit Sarin  is a senior undergraduate student of Electronics and Communication Engineering  at National Institute of Technology , Raipur , India. His research interests include Deep Learning, Computer Vision and it's applications in other fields. He is currently working on Tracker Evaluation and it's integration with GUI on event based cameras.
+</p>
+</div>
+
+
+
+<div class="container-fluid" style="clear:both">
+<br>
+<h1>Low Weng Fei, Research Intern</h1>
+
+<img src="/images/Lab_pics/wengfei.jpeg" width="200" alt="Fei picture" class="float-img"/>
+<br>
+
+<p style="text-align:justify">
+	Weng Fei is a senior undergraduate student of School of Computing at National University of Singapore. His research interests include robotics and it's applications in other fields. He is currently working on SLAM using event based cameras.
+</p>
+</div>
+
+
 <div class="container-fluid" style="clear:both">
 <br><br>
 </div>
