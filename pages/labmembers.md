@@ -128,7 +128,7 @@
 <br>
 
 <p style="text-align:justify">
-	Weng Fei is a senior undergraduate student of School of Computing at National University of Singapore. His research interests include robotics and it's applications in other fields. He is currently working on SLAM using event based cameras.
+	Weng Fei is currently completing his final year of BEng (Computer Engineering) in the National University of Singapore. He is also an active member of Team Bumblebee, which is a student-led multi-disciplinary project team that designs and builds autonomous maritime vehicles.  He is currently working on SLAM using event based cameras.
 </p>
 </div>
 
