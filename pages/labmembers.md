@@ -95,7 +95,7 @@
 
 <div class="container-fluid" style="clear:both">
 <br>
-<h1>Chockalingam SenthilRajan, Research Intern</h1>
+<h1>Chockalingam Senthil Rajen, Research Intern</h1>
 
 <img src="/images/Lab_pics/chockalingam.JPG" width="200" alt="Chockalingam picture" class="float-img"/>
 <br>
