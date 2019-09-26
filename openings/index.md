@@ -12,7 +12,7 @@
 <!--
 We have several openings available at
 [Temasek Laboratories](http://www.temasek-labs.nus.edu.sg/)
-and the Singapore Institute of Neurotechnology (SINAPSE).
+and the N.1 Institute for Health (formerly known as SINAPSE).
 Interested applicants are encouraged to contact us with a CV at the following email addresses:<sup>[1](#applicaitonNote)</sup>
 <table>
   <tr>
@@ -20,7 +20,7 @@ Interested applicants are encouraged to contact us with a CV at the following em
     <td>Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg) </td>
   </tr>
   <tr>
-    <td><b> SINAPSE : </b></th> 
+    <td><b> N.1 : </b></th> 
     <td>Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg) </td> 
   </tr>
 </table> 
@@ -28,7 +28,7 @@ Interested applicants are encouraged to contact us with a CV at the following em
 
 We have several openings available at
 [Temasek Laboratories](http://www.temasek-labs.nus.edu.sg/)
-and the Singapore Institute of Neurotechnology (SINAPSE).
+and the [N.1 Institute](https://n1labs.org/).
 
 At __Temasek laboratories__,
 >you will work in the field of neuromorphic engineering, especially from an algorithmic perspective,
@@ -37,9 +37,9 @@ At __Temasek laboratories__,
 >
 >__Email to__: Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg)
 
-At __SINAPSE__,
->you will work in neuromorphic vision, object recognition and tracking for low power system application
->including sensor integration and FPGA deployment. 
+At __N.1__,
+>you will work in collaboration with __NTU__ (Nanyang Technological University) on neuromorphic vision, object recognition and tracking for low power applications,
+>including work on cutting edge neuromorphic processors such as IBM's __TrueNorth__ and FPGA deployment. 
 >You will predominantly work on event-based camera sensors, which are low power image sensors with high temporal resolution, high dynamic range aynchronous signal output.
 >
 >__Email to__: Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg)
