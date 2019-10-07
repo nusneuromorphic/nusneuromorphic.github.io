@@ -128,6 +128,18 @@
 </p>
 </div>
 
+<div class="container-fluid" style="clear:both">
+<br>
+<h1>Lim Kangjie Jonathan, Research Intern</h1>
+
+<img src="/images/Lab_pics/jonathan2019.jpeg" width="200" alt="Jonathan picture" class="float-img"/>
+<br>
+
+<p style="text-align:justify">
+	Jonathan is in his final year of perusing a degree in BEng (Computer Engineering) in the National University of Singapore. He is working on Event-Based Motion Estimation.
+</p>
+</div>
+
 
 <div class="container-fluid" style="clear:both">
 <br><br>
