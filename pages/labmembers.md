@@ -92,7 +92,6 @@
 </div>
 
 
-
 <div class="container-fluid" style="clear:both">
 <br>
 <h1>Low Weng Fei, Research Intern</h1>
@@ -102,6 +101,30 @@
 
 <p style="text-align:justify">
 	Weng Fei is currently completing his final year of BEng (Computer Engineering) in the National University of Singapore. He is also an active member of Team Bumblebee, which is a student-led multi-disciplinary project team that designs and builds autonomous maritime vehicles.  He is currently working on SLAM using event based cameras.
+</p>
+</div>
+
+<div class="container-fluid" style="clear:both">
+<br>
+<h1>Fu Chuanrong Gideon, Research Intern</h1>
+
+<img src="/images/Lab_pics/gideon.jpeg" width="200" alt="Gideon picture" class="float-img"/>
+<br>
+
+<p style="text-align:justify">
+	Gideon is currently completing his final year of BEng (Computer Engineering) in the National University of Singapore. He is currently working on low-power vision system for object classification and tracking.
+</p>
+</div>
+
+<div class="container-fluid" style="clear:both">
+<br>
+<h1>Khor Ru Shan, Research Intern</h1>
+
+<img src="/images/Lab_pics/rushan.jpeg" width="200" alt="Rushan picture" class="float-img"/>
+<br>
+
+<p style="text-align:justify">
+	Khor Ru Shan is a final year BEng (Computer Engineering) student at the National University of Singapore. He has experience with FPGA programming and designing low-power wearable systems, and is interested in novel computer architectures. At NUS Neuromorphic, he is working on a low-powered neuromorphic vision system.
 </p>
 </div>
 
