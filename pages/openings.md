@@ -20,6 +20,7 @@ We have several openings available at the [N.1 Institute](https://n1labs.org/), 
 
 Interested applicants are encouraged to contact me with a CV using the above email address:<sup>[1](#applicaitonNote)</sup>
 <br />  
+<br />  
 # Research Fellow (Post-Doc) #
 
 >Required Qualifications:
