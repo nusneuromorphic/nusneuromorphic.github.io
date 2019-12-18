@@ -102,6 +102,18 @@
 </p>
 </div>
 
+<div class="container-fluid" style="clear:both">
+<br>
+<h1>Tarun Pulluri, Research Intern</h1>
+
+<img src="/images/Lab_pics/tarun.jpeg" width="200" alt="Tarun picture" class="float-img"/>
+<br>
+
+<p style="text-align:justify">
+	He is master graduate from AIT Thailand, where he was involved at the AI Center and iLab. His area of interests include robotics, point cloud processing and deep learning. His master thesis was on detection of rice plants and navigation of weeding robot using LiDAR.  His other interests include neuroscience and psychology. He also has experience working in a startup. He received funding from MSME, Govt. of India to develop several products during his bachelors at JNTU Hyderabad.
+</p>
+</div>
+
 
 <div class="container-fluid" style="clear:both">
 <br><br>
@@ -192,7 +204,7 @@ tr:nth-child(even) {
   <tr>
     <th>Rong Xiao </th>
     <td>Visiting Student</td>
-    <td>pursuing her PhD at Sichuan University, China </td>
+    <td>obtained her PhD at Sichuan University, China </td>
   </tr>
   <tr>
     <th>Sherine Rose</th>
@@ -202,7 +214,7 @@ tr:nth-child(even) {
   <tr>
     <th>Amirezza Yousefsadeh </th>
     <td>Visiting Student</td>
-    <td>now pursuing his PhD at University of Sevilla, Spain </td>
+    <td>obtained his PhD at University of Sevilla, Spain </td>
   </tr>
   <tr>
     <th>Lennart Walger </th>
@@ -227,12 +239,12 @@ tr:nth-child(even) {
   <tr>
     <th>Sahar Hosseini </th>
     <td>Visiting Student</td>
-    <td>pursuing her MS at University of Sevilla, Spain </td>
+    <td>obtained her MS at University of Sevilla, Spain </td>
   </tr>
   <tr>
     <th>Daniel Czech </th>
     <td>Visiting Student</td>
-    <td>pursuing his PhD at University of Cape Town, South Africa </td>
+    <td>obtained his PhD at University of Cape Town, South Africa </td>
   </tr>
   <tr>
     <th>Gregory Cohen </th>
@@ -252,7 +264,7 @@ tr:nth-child(even) {
   <tr>
     <th>Rohan Ghosh </th>
     <td>Intern</td>
-    <td>pursuing his PhD at National University of Singapore </td>
+    <td>obtained his PhD at National University of Singapore </td>
   </tr>
   
 </table>
