@@ -104,7 +104,7 @@
 
 <div class="container-fluid" style="clear:both">
 <br>
-<h1>Tarun Pulluri, Research Intern</h1>
+<h1>Tarun Pulluri, Research Attachment</h1>
 
 <img src="/images/Lab_pics/tarun.jpeg" width="200" alt="Tarun picture" class="float-img"/>
 <br>
