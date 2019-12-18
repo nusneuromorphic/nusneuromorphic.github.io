@@ -9,45 +9,18 @@
 .. type: text
 -->
 
-<!--
-We have several openings available at
-[Temasek Laboratories](http://www.temasek-labs.nus.edu.sg/)
-and the N.1 Institute for Health (formerly known as SINAPSE).
-Interested applicants are encouraged to contact us with a CV at the following email addresses:<sup>[1](#applicaitonNote)</sup>
-<table>
-  <tr>
-    <td><b> Temasek Laboratories : </b></th>
-    <td>Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg) </td>
-  </tr>
-  <tr>
-    <td><b> N.1 : </b></th> 
-    <td>Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg) </td> 
-  </tr>
-</table> 
--->
+We have several openings available at the [N.1 Institute](https://n1labs.org/), where
 
-We have several openings available at
-[Temasek Laboratories](http://www.temasek-labs.nus.edu.sg/)
-and the [N.1 Institute](https://n1labs.org/).
-
-At __Temasek laboratories__,
->you will work in the field of neuromorphic engineering, especially from an algorithmic perspective,
->in an ongoing collaboration with __A*STAR__(Agency for Science, Technology and Research) on their efficient neuromorphic computing program.
->In addition, you will have an opportunity to work on cutting edge neuromorphic processors such as IBM's __TrueNorth__ and Intel's __Loihi__.
->
->__Email to__: Sumit Bam Shrestha (tslsbs (AT) nus (DOT) edu (DOT) sg)
-
-At __N.1__,
->you will work in collaboration with __NTU__ (Nanyang Technological University) on neuromorphic vision, object recognition and tracking for low power applications,
->including work on cutting edge neuromorphic processors such as IBM's __TrueNorth__ and FPGA deployment. 
+>you will work in collaboration with NTU (Nanyang Technological University) on neuromorphic vision, object recognition and tracking for low power applications,
+>including work on cutting edge neuromorphic processors, spiking neural networks and FPGA deployment. 
 >You will predominantly work on event-based camera sensors, which are low power image sensors with high temporal resolution, high dynamic range aynchronous signal output.
 >
 >__Email to__: Bharath Ramesh (lsirame (AT) nus (DOT) edu (DOT) sg)
 
 
-Interested applicants are encouraged to contact us with a CV at the respective email addresses:<sup>[1](#applicaitonNote)</sup>
-
-# Research Scientist (Post-Doc) #
+Interested applicants are encouraged to contact me with a CV using the above email address:<sup>[1](#applicaitonNote)</sup>
+<br />  
+# Research Fellow (Post-Doc) #
 
 >Required Qualifications:
 >
@@ -61,7 +34,7 @@ Interested applicants are encouraged to contact us with a CV at the respective e
 >>	* Neuromorphic Engineering
 >>	* Embedded Hardware
 	
-# Associate Scientist #
+# Research Associate #
 
 >Required Qualifications:
 >

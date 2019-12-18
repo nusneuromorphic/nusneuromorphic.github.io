@@ -9,17 +9,7 @@
 .. type: text
 -->
 
-We are situated at the following locations.
-
-## Temasek Laboratories @ NUS ##
-
-__email:__ Sumit Bam Shrestha (tslsbs AT nus (dot) edu (dot) sg)
-
-__Address:__
->5A Engineering Drive 1  
-\#09-02 (Office: Level 5)  
-Singapore 117411	
-><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.7914588737803!2d103.77210800000002!3d1.299949!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1af774158ae1%3A0xd62c51fad2cfe6c9!2s5A+Engineering+Drive+1%2C+Singapore+117411!5e0!3m2!1sen!2sus!4v1548155305047" width="400" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+We are situated at the following location.
 	
 ## N.1 @ NUS ##
 __email:__ Bharath Ramesh (lsirame AT nus (DOT) edu (DOT) sg)

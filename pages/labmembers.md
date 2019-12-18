@@ -37,44 +37,6 @@
 <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjIy6iGkpDgAhULVH0KHRt1C74QFjAAegQIBxAB&url=http%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3Ddh9MPA0AAAAJ%26hl%3Den&usg=AOvVaw2Ancz93b9OL-r9drLJhyPd"> Google Scholar</a>
 </div>
 
-<div class="container-fluid" style="clear:both">
-<br>
-<h1>Sumit Bam Shrestha, Research Scientist</h1>
-
-<img src="/images/Lab_pics/Sumit.jpg" width="200" alt="Sumit picture" class="float-img"/>
-<br>
-
-<p style="text-align:justify">
-	Sumit Bam Shrestha received his PhD from School of EEE, Nanyang Technological University, 
-	Singapore. His research is mainly focused supervised learning in Deep Spiking Neural Networks and 
-	their application to event based vision, event based audio tasks as well as for configuring neuromorphic hardware. 
-	His research interests also include Deep Learning, Machine Learning, Image Processing and Pattern Recognition.
-</p>
-<a href="https://scholar.google.com.sg/citations?user=gwxvD0IAAAAJ&hl=en"> Google Scholar</a>, 
-<a href="https://www.researchgate.net/profile/Sumit_Shrestha"> Research Gate</a>
-</div>
-
-
-<div class="container-fluid" style="clear:both">
-<br>
-<h1>Fabien Colonnier, Research Scientist</h1>
-
-<img src="/images/Lab_pics/Fabien.jpg" width="200" alt="Fabien picture" class="float-img"/>
-<br>
-
-<p style="text-align:justify">
-	Fabien received his MSc in automotive engineering with a speciality on embedded systems from the ESTACA engineering school in 2012 and 
-	his PhD degree in bio-robotics from the Aix-Marseille University in 2017, both in France. 
-	He was early interested in autonomous vehicles and robots. 
-	An opportunity to work on bio-inspired vision attracted him. His research on the fly’s compound eyes made him realize 
-	how impressive these insects are (he does not swat them anymore, 
-	except mosquitos which are really annoying!). 
-	His current research interests include bio-inspired vision, event-based camera, computer vision and 
-	their applications to aerial and ground vehicles.
-</p>
-<a href="https://scholar.google.com.sg/citations?user=sxMxQZoAAAAJ&hl=en"> Google Scholar</a>
-</div>
-
 
 <div class="container-fluid" style="clear:both">
 <br>
@@ -167,6 +129,16 @@ tr:nth-child(even) {
 </style>
 
 <table>
+  <tr>
+    <th>Fabien Colonnier</th>
+    <td>Research Scientist </td>
+    <td> moved to A*STAR as a research scientist </a> </td>
+  </tr>
+  <tr>
+    <th>Sumit Bam Shrestha</th>
+    <td>Research Scientist </td>
+    <td> moved to A*STAR as a lead research scientist </a> </td>
+  </tr>
   <tr>
     <th>Mohit Sarin</th>
     <td>Research Intern </td>
