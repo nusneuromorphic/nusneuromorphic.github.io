@@ -80,18 +80,6 @@
 
 <div class="container-fluid" style="clear:both">
 <br>
-<h1>Khor Ru Shan, Research Intern</h1>
-
-<img src="/images/Lab_pics/rushan.jpeg" width="200" alt="Rushan picture" class="float-img"/>
-<br>
-
-<p style="text-align:justify">
-	Khor Ru Shan is a final year BEng (Computer Engineering) student at the National University of Singapore. He has experience with FPGA programming and designing low-power wearable systems, and is interested in novel computer architectures. At NUS Neuromorphic, he is working on a low-powered neuromorphic vision system.
-</p>
-</div>
-
-<div class="container-fluid" style="clear:both">
-<br>
 <h1>Lim Kangjie Jonathan, Research Intern</h1>
 
 <img src="/images/Lab_pics/jonathan2019.jpeg" width="200" alt="Jonathan picture" class="float-img"/>
@@ -141,6 +129,11 @@ tr:nth-child(even) {
 </style>
 
 <table>
+  <tr>
+    <th>Khor Ru Shan</th>
+    <td>Research Intern </td>
+    <td> completing his Bachelor studies at NUS </a> </td>
+  </tr>
   <tr>
     <th>Fabien Colonnier</th>
     <td>Research Scientist </td>
