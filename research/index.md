@@ -41,14 +41,21 @@
 # __Publications__ #
 
 ## Journals ##
-> Bharath Ramesh*, Andrés Ussa, Luca Della Vedova, Hong Yang and Garrick Orchard., "Low-power Dynamic Object Detection and Classification with Freely Moving Event Cameras" <i>Frontiers in Neuroscience (Accepted)</i>, Feb. 2020 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.00135/abstract"> link</a>
+>Andres Ussa, Chockalingam Senthil Rajen, Deepak Singla, Jyotibdha Acharya, Gideon Fu Chuanrong, Arindam Basu, Bharath Ramesh., "A Hybrid Neuromorphic Object Tracking and Classification Framework for Real-time Systems", <i> arXiv preprint arXiv:2007.11404 [cs.CV], </i> 2020 <a href="https://arxiv.org/abs/2007.11404"> link</a>, <a href="https://tinyurl.com/ycc2tn5t"> video</a> 
 >
->Ramesh B., Yang H., Orchard G., Le Thi N., Zhang S. and Xiang C. "DART: Distribution Aware Retinal Transform for Event-based Cameras" <i>IEEE Transactions on Pattern Analysis and Machine Intelligence,  DOI: 10.1109/TPAMI.2019.2919301 </i>, May 2019 <a href="https://ieeexplore.ieee.org/document/8723171"> link</a>
+>Deepak Singla, Vivek Mohan, Tarun Pulluri, Andres Ussa, Bharath Ramesh, Arindam Basu., "EBBINNOT: A Hardware Efficient Hybrid Event-Frame Tracker for Stationary Neuromorphic Vision Sensors", <i> arXiv preprint arXiv:2006.00422 [cs.CV], </i> 2020 <a href="https://arxiv.org/abs/2006.00422"> link</a>
+>
+> Bharath Ramesh, Andrés Ussa, Luca Della Vedova, Hong Yang and Garrick Orchard., "Low-power Dynamic Object Detection and Classification with Freely Moving Event Cameras" <i>Frontiers in Neuroscience (Accepted)</i>, Feb. 2020 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.00135/abstract"> link</a>
+>
+>Ramesh B., Yang H., Orchard G., Le Thi N., Zhang S. and Xiang C. "DART: Distribution Aware Retinal Transform for Event-based Cameras" <i>IEEE Transactions on Pattern Analysis and Machine Intelligence,  DOI: 10.1109/TPAMI.2019.2919301</i>, May 2019 <a href="https://ieeexplore.ieee.org/document/8723171"> link</a>
 >
 >Zhen X., Sheng Y.C. and Orchard, G. "Event-based Stereo Depth Estimation Using Belief Propagation" <i>Frontiers in Neuroscience vol. 11, pp. 535</i>, Oct. 2017 <a href="https://www.frontiersin.org/articles/10.3389/fnins.2017.00535/full"> link</a>
 
 ## Conference proceedings ##
-
+>Weng Fei Low, Zhi Gao, Cheng Xiang, Bharath Ramesh., "SOFEA: A Non-Iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors",<i> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops,</i> June 2020 <a href="https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Low_SOFEA_A_Non-Iterative_and_Robust_Optical_Flow_Estimation_Algorithm_for_CVPRW_2020_paper.pdf"> PDF</a>
+>
+>Bharath Ramesh, Hong Yang., "Boosted Kernelized Correlation Filters for Event-based Face Detection", <i> Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, </i> March 2020 <a href="https://openaccess.thecvf.com/content_WACVW_2020/papers/w5/Ramesh_Boosted_Kernelized_Correlation_Filters_for_Event-based_Face_Detection_WACVW_2020_paper.pdf"> PDF</a>
+>
 >Deepak Singla, Soham Chatterjee, Lavanya Ramapantulu, Andres Ussa, Bharath Ramesh, and Arindam Basu, "HyNNA: Improved Performance for Neuromorphic Vision Sensor Based Surveillance Using Hybrid Neural Network Architecture", <i>IEEE International Symposium on Circuits and Systems (ISCAS) </i>, Sevilla, Spain, May 2020 (Accepted)
 >
 >Andres Ussa, Luca Della Vedova, Vandana Reddy Padala, Deepak Singla, Jyotibdha Acharya, Charles Zhang Lei, Garrick Orchard, Arindam Basu, Bharath Ramesh., "A low-power end-to-end hybrid neuromorphic framework for surveillance applications", <i>British Machine Vision Conference Workshops</i>, Cardiff, United Kingdom, Sep 2019 <a href="https://arxiv.org/pdf/1910.09806.pdf"> PDF</a>, <a href="https://drive.google.com/file/d/189K3OenAUx4r5qwh_8yQ8vvh8P_Rgavf/edit"> video</a> 
