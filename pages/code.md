@@ -12,6 +12,12 @@
 We often publically release the code developed in-house. 
 Below are a list of such codes released for public use, their short description and their link.
 
+##SOFEA: A Non-iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision Sensors ##
+>__Repository link__: [https://bitbucket.org/wengfei_nus/sofea/src/master/](https://bitbucket.org/wengfei_nus/sofea/src/master/)
+>
+>This repository contains a MATLAB implementation of the Single-shot Optical Flow Estimation Algorithm (SOFEA),
+>as presented in the CVPR 2020 workshop paper "SOFEA: A Non-iterative and Robust Optical Flow Estimation Algorithm for Dynamic Vision". 
+
 ## DART: Distribution Aware Retinal Transform ##
 >__Repository link__: [Source code (with tracking annotations)](https://goo.gl/cVNWLB)
 >
