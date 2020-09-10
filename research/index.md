@@ -21,6 +21,11 @@
 
 >The Xilinx Zynq-7020 FPGA was interfaced to a down-looking DAVIS camera, on-board an unmanned aerial vehicle, recognizing different objects beneath it. 
 
+>We have also used this setup for real-time object tracking and classification using a hybrid neuromorphic framework.
+><p align=center>
+>	<iframe width="512" height="288" src="https://www.youtube.com/embed/rPkg_v-v7lY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+></p> 
+
 >Besides low-power hardware implementations, we also carry out academically oriented work for object tracking, learning and detection.
 
 ><p align=center>
@@ -41,6 +46,9 @@
 # __Publications__ #
 
 ## Journals ##
+
+>Bharath Ramesh, Shihao Zhang, Hong Yang, Andres Ussa, Matthew Ong, Garrick Orchard, Cheng Xiang., "e-TLD: Event-based Framework for Dynamic Object Tracking", <i> arXiv preprint arXiv:2009.00855 [cs.CV], </i> 2020 <a href="https://arxiv.org/abs/2009.00855"> link</a>, <a href="https://drive.google.com/file/d/1XFyecJoWADdLQX-hU5uig0QL-_i7ydD5/view"> video</a> 
+>
 >Andres Ussa, Chockalingam Senthil Rajen, Deepak Singla, Jyotibdha Acharya, Gideon Fu Chuanrong, Arindam Basu, Bharath Ramesh., "A Hybrid Neuromorphic Object Tracking and Classification Framework for Real-time Systems", <i> arXiv preprint arXiv:2007.11404 [cs.CV], </i> 2020 <a href="https://arxiv.org/abs/2007.11404"> link</a>, <a href="https://tinyurl.com/ycc2tn5t"> video</a> 
 >
 >Deepak Singla, Vivek Mohan, Tarun Pulluri, Andres Ussa, Bharath Ramesh, Arindam Basu., "EBBINNOT: A Hardware Efficient Hybrid Event-Frame Tracker for Stationary Neuromorphic Vision Sensors", <i> arXiv preprint arXiv:2006.00422 [cs.CV], </i> 2020 <a href="https://arxiv.org/abs/2006.00422"> link</a>
