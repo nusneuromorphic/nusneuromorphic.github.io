@@ -1,5 +1,5 @@
 <!--
-.. title: dataset
+.. title: Dataset
 .. slug: dataset
 .. date: 2021-02-05 10:59:23 UTC+08:00
 .. tags: 
@@ -11,7 +11,9 @@
 
 The dataset is divided by event and RGB data recorded by the Inivation DAVIS240C camera and the ZED Stereo camera, respectively.
 
-The event data is composed of binary files. To read them, the MATLAB AER Vision Functions are needed 
+The event data is composed of binary files. Additionally, AEDAT4 files are also provided.
+
+To read the binary files, the MATLAB AER Vision Functions are needed 
 [https://github.com/gorchard/Matlab_AER_vision_functions](https://github.com/gorchard/Matlab_AER_vision_functions).
 
 <ul>
@@ -21,7 +23,7 @@ The event data is composed of binary files. To read them, the MATLAB AER Vision 
 </ul>
 
 
-Scripts to read the dataset and extract tracks from the annotation files are also included:
+Scripts to read the binary dataset and extract tracks from the annotation files are also included:
 >For event data: make_dataset_images_full.m<br>
 >For RGB data: make_dataset_images_RGB_full.m
 

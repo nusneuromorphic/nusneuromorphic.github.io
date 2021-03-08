@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>dataset | NUS Neuromorphic Group</title>
+<title>Dataset | NUS Neuromorphic Group</title>
 <link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
@@ -15,10 +15,10 @@
 <link rel="stylesheet" media="screen" href="http://openfontlibrary.org/face/railway-sans" type="text/css">
 <meta name="author" content="nusneuromorphic">
 <meta property="og:site_name" content="NUS Neuromorphic Group">
-<meta property="og:title" content="dataset">
+<meta property="og:title" content="Dataset">
 <meta property="og:url" content="https://nusneuromorphic.github.io/dataset/">
 <meta property="og:description" content="The dataset is divided by event and RGB data recorded by the Inivation DAVIS240C camera and the ZED Stereo camera, respectively.
-The event data is composed of binary files. To read them, the MATLAB AE">
+The event data is composed of binary files. Additionally, AEDAT4 files ">
 <meta property="og:type" content="article">
 <meta property="article:published_time" content="2021-02-05T10:59:23+08:00">
 </head>
@@ -47,6 +47,9 @@ The event data is composed of binary files. To read them, the MATLAB AE">
 <a href="../code/index.html">Code</a>
                 </li>
 <li>
+<a href="../dataset/index.html">Dataset</a>
+	                </li>
+<li>
 <a href="../openings/index.html">Openings</a>
                 </li>
 <li>
@@ -65,21 +68,22 @@ The event data is composed of binary files. To read them, the MATLAB AE">
   <div class="row">
       
       
-<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">dataset</a></h1>
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Dataset</a></h1>
 
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
     <div>
 <p>The dataset is divided by event and RGB data recorded by the Inivation DAVIS240C camera and the ZED Stereo camera, respectively.</p>
-<p>The event data is composed of binary files. To read them, the MATLAB AER Vision Functions are needed 
+<p>The event data is composed of binary files. Additionally, AEDAT4 files are also provided.</p>
+<p>To read the binary files, the MATLAB AER Vision Functions are needed 
 <a href="https://github.com/gorchard/Matlab_AER_vision_functions">https://github.com/gorchard/Matlab_AER_vision_functions</a>.</p>
 <ul>
 <li>Add the AER vision functions to the MATLAB path.</li>
     <li>Load a file using the "read_linux" function.<br> e.g. td = read_linux('../EBBINNOT/DAVIS_Events/Recording/20180711_Site1_3pm_12mm_01.bin'); </li>
     <li>Visualize the data using the ShowTD function.e.g. ShowTD(td);</li>
 </ul>
-<p>Scripts to read the dataset and extract tracks from the annotation files are also included:</p>
+<p>Scripts to read the binary dataset and extract tracks from the annotation files are also included:</p>
 <blockquote>
 <p>For event data: make_dataset_images_full.m<br>
 For RGB data: make_dataset_images_RGB_full.m</p>
