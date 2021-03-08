@@ -1,5 +1,5 @@
 <!--
-.. title: Dataset
+.. title: dataset
 .. slug: dataset
 .. date: 2021-02-05 10:59:23 UTC+08:00
 .. tags: 
@@ -25,12 +25,13 @@ Scripts to read the dataset and extract tracks from the annotation files are als
 >For event data: make_dataset_images_full.m<br>
 >For RGB data: make_dataset_images_RGB_full.m
 
-The dataset is hosted in Zenodo [https://zenodo.org/record/3839231](https://zenodo.org/record/3839231).
+The dataset is hosted in Zenodo [https://zenodo.org/record/4574759](https://zenodo.org/record/4574759).
 
 Download links:
-<br><a href="https://zenodo.org/record/3839231/files/EBBINNOT.zip?download=1">EBBINNOT Dataset</a>
-<br><a href="https://zenodo.org/record/3839231/files/make_dataset_images_full.m?download=1">Extract events script</a>               
-<a href="https://zenodo.org/record/3839231/files/make_dataset_images_RGB_full.m?download=1">Extract RGB script</a>
+<br><a href="https://zenodo.org/record/4574759/files/EBBINNOT.zip?download=1">EBBINNOT Dataset</a>
+<br><a href="https://zenodo.org/record/4574759/files/EBBINNOT_AEDAT4.zip?download=1">EBBINNOT Aedat4 Dataset</a>
+<br><a href="https://zenodo.org/record/4574759/files/make_dataset_images_full.m?download=1">Extract events script</a>               
+<a href="https://zenodo.org/record/4574759/files/make_dataset_images_RGB_full.m?download=1">Extract RGB script</a>
 
 <h1>Samples:</h1>
 <table style="width:70%">
